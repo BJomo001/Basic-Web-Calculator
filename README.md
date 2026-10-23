@@ -86,7 +86,8 @@ Input:  25 + 15
 
 Output: 40
 
-🤝 Contributing
+## 🤝 Contributing
+
 Contributions, suggestions, and feedback are welcome!
 
 To contribute:
