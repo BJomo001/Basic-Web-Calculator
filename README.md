@@ -48,6 +48,25 @@ Basic-Web-Calculator/
 
 Note: Update the filenames in this structure if your repository uses different names or folders.
 
+## 🌍 Deployment
+
+The website is hosted using GitHub Pages.
+
+## Visit the live project here:
+
+🌐 Live Website: [Burger Palace](https://bjomo001.github.io/Basic-Web-Calculator/)
+
+## 🎉Deploying Updates
+
+Commit your changes to the repository.
+
+Push your changes to GitHub.
+
+Ensure GitHub Pages is configured for the correct branch and folder in the repository settings.
+
+Wait for GitHub Pages to publish the updated website.
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
