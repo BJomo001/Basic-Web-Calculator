@@ -101,7 +101,8 @@ Push your branch to GitHub.
 
 Open a pull request describing your changes.
 
-📄 License
+## 📄 License
+
 This project is licensed under the MIT License.
 
 Copyright (c) 2026 BJomo001
@@ -116,6 +117,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 BJomo001
 
-GitHub: @BJomo001
+GitHub: [@BJomo001](https://github.com/BJomo001)
 
 ⭐ If you like this project, consider giving the repository a star!
