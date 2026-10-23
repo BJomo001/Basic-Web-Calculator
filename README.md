@@ -86,6 +86,23 @@ Input:  25 + 15
 
 Output: 40
 
+## 🎯 Project Purpose
+
+This project demonstrates the fundamentals of front-end web development, including HTML structure, CSS styling, DOM manipulation, event handling, and JavaScript arithmetic operations.
+
+It is suitable for beginners learning how to build interactive web applications without external libraries or frameworks.
+
+## 🔮 Future Improvements
+
+Potential enhancements include:
+
+Keyboard input support.
+Calculation history.
+Improved error handling and validation.
+Dark and light themes.
+More advanced mathematical operations.
+Additional accessibility improvements.
+
 ## 🤝 Contributing
 
 Contributions, suggestions, and feedback are welcome!
