@@ -143,3 +143,5 @@ BJomo001
 GitHub: [@BJomo001](https://github.com/BJomo001)
 
 ⭐ If you like this project, consider giving the repository a star!
+
+🧮 Smart Calculator — Smart Calculations, Instant Results.
