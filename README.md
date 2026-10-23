@@ -54,7 +54,7 @@ The website is hosted using GitHub Pages.
 
 ## Visit the live project here:
 
-🌐 Live Website: [Burger Palace](https://bjomo001.github.io/Basic-Web-Calculator/)
+🌐 Live Website: [Smart Calculator](https://bjomo001.github.io/Basic-Web-Calculator/)
 
 ## 🎉Deploying Updates
 
