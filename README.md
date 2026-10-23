@@ -97,10 +97,15 @@ It is suitable for beginners learning how to build interactive web applications 
 Potential enhancements include:
 
 ✔ Keyboard input support.
+
 ✔ Calculation history.
+
 ✔ Improved error handling and validation.
+
 ✔ Dark and light themes.
+
 ✔ More advanced mathematical operations.
+
 ✔ Additional accessibility improvements.
 
 ## 🤝 Contributing
