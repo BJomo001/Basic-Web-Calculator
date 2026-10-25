@@ -70,9 +70,17 @@ Wait for GitHub Pages to publish the updated website.
 ## 🚀 Getting Started
 
 ### Prerequisites
-You only need a modern web browser. No additional software, packages, or dependencies are required to run the calculator.
+
+You will need:
+
+A modern web browser such as Chrome, Firefox, or Edge.
+
+Git installed on your computer.
+
+A code editor such as Visual Studio Code.
 
 ## Installation
+
 Clone the repository:
 
 `git clone https://github.com/BJomo001/Basic-Web-Calculator.git`
