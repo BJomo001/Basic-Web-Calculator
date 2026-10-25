@@ -69,7 +69,9 @@ Wait for GitHub Pages to publish the updated website.
 
 ## 🚀 Getting Started
 
-### Prerequisites
+Follow these steps to run the project locally.
+
+Prerequisites
 
 You will need:
 
